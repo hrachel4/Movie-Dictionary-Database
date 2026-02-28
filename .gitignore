@@ -1,0 +1,19 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Local Settings
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore the virtual environment folder
+.venv/
+venv/
